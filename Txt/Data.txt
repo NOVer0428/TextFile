@@ -1,4 +1,3 @@
-"Code_Tester01":{"ID":"Code_Tester01","Password":"0028er_Ver01"}
-"Code_Tester02":{"ID":"Code_Tester02","Password":"0028er_Ver02"}
-"Code_Tester03":{"ID":"Code_Tester03","Password":"0028er_Ver03"}
-"Code_Tester04":{"ID":"Code_Tester04","Password":"0028er_Ver04"}
+"Code_Tester":{"ID":"Code_Tester","Password":"0028er_Ver01","Profile_Codde":{"level":5,"Current_ex":10,"Max_ex":500}}
+"Code_Manager":{"ID":"Code_Manager","Password":"0028er_Ver02","Profile_Codde":{"level":12,"Current_ex":580,"Max_ex":1200}}
+"Code_Commander":{"ID":"Code_Commander","Password":"0028er_Ver03","Profile_Codde":{"level":124,"Current_ex":1001,"Max_ex":12400}}
