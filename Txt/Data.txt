@@ -1,2 +1,1 @@
-Hello Player
-Your Name is "CodeCountPlayer"
+{"Code_Tester04":{"ID":"Code_Tester04","Password":"0028er"}}
